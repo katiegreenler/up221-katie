@@ -1,4 +1,5 @@
 ### up221-katie
+This is Katie Greenler's repository for UP221 - Introduction to GIS and Spatial Data Science
 ## Overview
 My name is Katie Greenler. I am a _second year MURP_ specializing in design and development. I like to focus my work on mobility, pedestrianism, green space, and overall on community centered design. I have a strong background in GIS, data visualization, and design. 
 
